@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KyrloUk
-- 👀 I’m interested in Front End Developer 
-- 🌱 I’m currently learning HTML,CSS,JS
+- 👀 I’m a  Front End Developer 
+- I Know HTML-CSS
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing as of now!
 - 📫 How to reach me Discord Kylro#4334
 
