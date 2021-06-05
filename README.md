@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KyrloUk
-- 👀 I’m a  Front End Developer 
+- 👋 Hi, I’m @KyrloUk👀 I’m a  Front End Developer Young programer Programing for VATSIM Kuwait & Iraq.
 - I Know HTML-CSS
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing as of now!
