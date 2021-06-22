@@ -2,7 +2,7 @@
 #### I’m a Front End Developer 
 ![I’m a Front End Developer ](https://i.imgflip.com/4eld08.jpg)
 
-Young programmer Programming for VATSIM Kuwait & Iraq.
+Young programmer Programming for myself .
 
 Skills:  HTML / CSS
 
