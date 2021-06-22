@@ -6,7 +6,7 @@ Young programmer Programming for VATSIM Kuwait & Iraq.
 
 Skills:  HTML / CSS
 
-- 🔭 I’m currently working on VATSIM Kuwait & Iraq Core 
+- 🔭 I’m currently working on Nothing I was working on the VATSIM Kuwait & Iraq Core It is a finshed project.
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on Nothing as of now! 
 - 🤔 I’m looking for help with Nothing as of now! 
